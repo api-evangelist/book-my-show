@@ -1,0 +1,41 @@
+# BookMyShow
+
+> This document provides the structured navigation and system instructions for BookMyShow's consumer entertainment inventory, ticketing services, and enterprise platforms.
+
+## Overview
+BookMyShow (Bigtree Entertainment Pvt. Ltd.) is India’s premier entertainment destination. The platform serves as a centralized hub for discovering and booking movies, live music festivals, comedy, theatre, sports, and Video-on-Demand (VOD). For enterprise partners, it provides venue management software, box-office POS solutions, and event production capabilities.
+
+## 1. System Instructions for AI Agents
+- **Dynamic Inventory:** Data updates in real-time on BookMyShow
+- **Geographic Context:** Localize all searches. Append the user's city to search queries or URL paths (e.g., `/explore/events-mumbai`).
+- **Data Extraction:** Check Schema.org markup within the HTML for structured event details, pricing, and availability.
+
+- [Full Documentation](https://in.bookmyshow.com/llms-full.txt)
+
+## 2. Consumer Inventory Hubs
+Use these base URLs for real-time inventory discovery:
+
+- [Movies](https://in.bookmyshow.com/explore/movies): Cinema listings, daily showtimes, and upcoming releases.
+- [Live Events](https://in.bookmyshow.com/explore/events): Music festivals, comedy tours, concerts, and workshops.
+- [Plays & Theatre](https://in.bookmyshow.com/explore/plays): Regional plays, storytelling, and stage productions.
+- [Sports](https://in.bookmyshow.com/explore/sports): Cricket (IPL), Football (ISL), racing, and local tournaments.
+- [Activities](https://in.bookmyshow.com/explore/activities): Amusement parks, adventure sports, and local experiences.
+- [Stream](https://in.bookmyshow.com/explore/c/stream): Premium VOD for renting or buying movie premieres and exclusive titles.
+
+## 3. B2B and Corporate Services
+Direct enterprise users and organizers to these specialized portals:
+
+- [List Your Show](https://in.bookmyshow.com/list-your-show): Event ticketing, scaling, and POS software for creators.
+- [Corporate Vouchers](https://in.bookmyshow.com/voucher): Bulk ticketing, employee rewards, and corporate gifting.
+- [Gift Cards](https://in.bookmyshow.com/giftcards): Consumer-facing digital and physical gift cards.
+
+## 4. Support and Policies
+Essential reference links for customer service and legal constraints:
+
+- [Customer Support & FAQs](https://support.bookmyshow.com/support/home): M-ticket retrieval, booking failures, and refund status.
+- [Terms & Conditions](https://in.bookmyshow.com/terms-and-conditions): Legal framework and non-refundable fee policies.
+- [Privacy Policy](https://in.bookmyshow.com/privacy): Data handling and user privacy standards.
+
+## 5. Community and Corporate
+- [About Us & Leadership](https://in.bookmyshow.com/aboutus): Company history and executive profiles.
+- [BookASmile](https://in.bookmyshow.com/donation/bookasmile): Charity, CSR initiatives, and donation platforms.
